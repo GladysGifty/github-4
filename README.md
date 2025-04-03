@@ -1,2 +1,2 @@
 # github-4
-explore the great with github !!
+explore the great in coding with github !!
